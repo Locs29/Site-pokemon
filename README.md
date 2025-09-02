@@ -1,1 +1,1 @@
-Execute o arquivo INDEX.html
+Execute o arquivo INDEX.html dentro de #Pág_inicial.
