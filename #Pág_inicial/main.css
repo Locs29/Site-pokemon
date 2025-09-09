@@ -1,6 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
 body{
   background: linear-gradient(to left, #f9ff4c, #a1ddf6);
   z-index: -43;
@@ -13,7 +15,13 @@ input{
 section{
   background-color: #24124b;
   border-radius: 9px;
-  margin: 200px;
+  margin: 20px;
+}
+
+section:hover{ 
+  transform: scale(1.1);
+  background-color: #361282 ;
+  transition: all 0.3s ease;
 }
 
 body::before {
@@ -35,9 +43,10 @@ body::before {
 
 
 h1{
-  color: rgba(0, 0, 0, 0.925);
+  color: #3c0ba7;
   font-size: 3em;
   text-align: center;
+  font-family: Orelega One, sans-serif;
 }
 
 .fotos{
