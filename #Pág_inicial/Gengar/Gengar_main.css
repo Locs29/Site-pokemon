@@ -49,6 +49,10 @@ img:hover{
   border: 4px solid rgb(150, 15, 160);
 }
 
+#faixaAudio{
+  text-align: center;
+}
+
 h2{
   color: #ebf5f3e8;
   font-size: 2em;
