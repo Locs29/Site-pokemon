@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+
+body{
+    background: linear-gradient(to left, #b804ff, #3e2e44);
+}
+
+section{
+  background-color: #480a63;
+  border-radius: 9px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+section:hover{
+  background-color: #6c1292 ;
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+}
+
+.botao{
+  padding:5 px;
+  background-color: #9e1f8b;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+h1{
+  color:  #480a63;
+  font-size: 3em;
+  text-align: center;
+  font-family: Orlega one, sans-serif;
+}
+
+.fotos{
+  display: flex;
+  justify-content: space-evenly;
+  height: 300px;
+  border-radius: 40px;
+}
+
+img{
+  height: 300px;
+  border-radius: 20px;
+}
+
+img:hover{
+  transform: scale(1.1);
+  transition: all 0.3s ease;
+  border: 4px solid rgb(150, 15, 160);
+}
+
+#faixaAudio{
+  text-align: center;
+}
+
+h2{
+  color: #ebf5f3e8;
+  font-size: 2em;
+  text-align: center;
+}
+
+p{
+  color: rgb(212, 228, 228);
+  font-size: 22px;
+  font-style: italic;
+  text-align: center;
+}
+
+ol, ul{
+  color: azure;
+  font-size: 22px;
+  font-style: italic;
+}
+
+a{
+  color:aliceblue;
+}
+
+a:hover{
+  color: rgb(255, 0, 200);
+}

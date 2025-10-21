@@ -1,0 +1,32 @@
+html{
+    background-color:#CDE4FF;
+}
+
+header{
+    background-color: #0B3652;
+}
+
+h1{
+    color:#4B92E3;
+    text-align:center;
+    font-size: 90px;
+}
+
+h2{
+    text-align: center;
+    color: #4B92E3;
+    font-size: 60px;
+}
+
+p{
+    color: black;
+    text-align: justify;
+    font-size: 25px;
+    margin: 3cm;
+}
+
+button{
+    margin-left: 600px;
+    height: 100px;
+    width: 100px;
+}
